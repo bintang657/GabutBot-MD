@@ -1,5 +1,5 @@
 {
-  "name": "Adrian-MD",
+  "name": "kimjong",
   "version": "1.4.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "AdrianTzy",
+  "author": "©starkimjong",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys",
