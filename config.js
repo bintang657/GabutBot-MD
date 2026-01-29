@@ -15,7 +15,7 @@ global.premium = ['254743119396']
 
 //—————「 Set Wm 」—————//
 global.packname = '©starkimjong''
-global.author = 'ShinySebastian'
+global.author = '©starkimjong'
 global.prefa = ['', '.']
 global.sp = '•'
 
